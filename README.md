@@ -5,10 +5,10 @@
   <samp>
     <h1 align="center">I'm Ronald Vilcas👋</h1>
     <h3 align="center">About Me</h3>
-    <h4 align="center">I'm a Mechatronics Engineer with a great passion for projects and big data. Currently, I'm specializing in data science as a tool for better decision making based on data to assess the feasibility of projects.</h2>
+    <h4 align="center">I'm a Mechatronics Engineer with a great passion for projects and data. Currently, I'm specializing in data science as a tool for better decision making based on data to assess the feasibility of projects.</h2>
     <br>
     <ul>
-      <p>🌱 I’m currently learning Python.</p>
+      <p>🌱 I’m currently learning Python and Data Science.</p>
       <p>🔭 I studied at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecatronica_-_impresa.pdf">Mechatronic Engineering</a></p>
       <p>⚡ I am passionate about sports, and one activity that truly captivates me is tennis.</p>
     </ul>
