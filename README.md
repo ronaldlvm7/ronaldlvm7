@@ -30,8 +30,26 @@
 <p align="center"> 
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="tailwind" width="40" height="40"/> </a>
- </p>
+ <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+ <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
+ <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/> </a>
+ <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a>
+ <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/> </a>
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
+</p>
+
 <!-- Connect with me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
