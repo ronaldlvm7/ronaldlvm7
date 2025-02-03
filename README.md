@@ -5,7 +5,7 @@
   <samp>
     <h1 align="center">I'm Ronald Vilcas👋</h1>
     <h3 align="center">About Me</h3>
-    <h4 align="center">I'm a Mechatronics Engineer with a great passion for projects and data. Currently, Focused on machine learning, statistical analysis and data science. Able to analyze, develop and implement technical and analytical solutions. I stand out for my ability to adapt, teamwork, creativity and critical thinking to transform and generate value through data-driven solutions.</h2>
+    <h4 align="center">I'm a Mechatronics Engineer passionate about technology, innovation, and data-driven solutions. Currently, I am working on technology and innovation projects while furthering my specialization in data science. My expertise includes statistical analysis, machine learning (ML), and deep learning (DL) to solve complex problems and optimize processes. I excel in adaptability, teamwork, creativity, and critical thinking, leveraging data to drive impactful solutions. Passionate about transforming insights into action, I continuously explore new ways to harness data for innovation and efficiency</h2>
     <br>
     <ul>
       <p>🌱 I’m currently learning Python and Data Science.</p>
